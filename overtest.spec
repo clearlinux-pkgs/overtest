@@ -4,7 +4,7 @@
 #
 Name     : overtest
 Version  : 0.14.0
-Release  : 1
+Release  : 2
 URL      : https://pypi.python.org/packages/source/o/overtest/overtest-0.14.0.tar.gz
 Source0  : https://pypi.python.org/packages/source/o/overtest/overtest-0.14.0.tar.gz
 Summary  : Suite of tools to manage daemons for testing
